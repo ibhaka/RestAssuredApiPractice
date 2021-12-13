@@ -1,5 +1,4 @@
 # RestAssured_api
-Rest Assured Api
 
 How to use ?
 
